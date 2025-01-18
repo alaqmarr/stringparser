@@ -1,6 +1,6 @@
 {
   "name": "simplestringparser",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple library to modify a string in multiple ways.",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,8 @@
     "url": "https://github.com/alaqmarr/stringparser.git"
   },
   "author": "AL AQMAR",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  }
 }
