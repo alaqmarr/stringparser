@@ -1,5 +1,5 @@
 {
-  "name": "stringparser",
+  "name": "simplestringparser",
   "version": "1.0.0",
   "description": "A simple library to modify a string in multiple ways.",
   "main": "index.js",
