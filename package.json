@@ -1,0 +1,15 @@
+{
+  "name": "stringparser",
+  "version": "1.0.0",
+  "description": "A simple library to modify a string in multiple ways.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alaqmarr/String-Parser.git"
+  },
+  "author": "AL AQMAR",
+  "license": "ISC"
+}
